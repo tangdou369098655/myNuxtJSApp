@@ -15,6 +15,8 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
+    "echarts": "^4.6.0",
+    "jsonp": "^0.2.1",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
@@ -27,10 +29,10 @@
     "less": "^3.11.1",
     "less-loader": "^5.0.0"
   },
-  "config":{
-    "nuxt":{
-      "host":"127.0.0.1",
-      "port":"8088"
+  "config": {
+    "nuxt": {
+      "host": "127.0.0.1",
+      "port": "8088"
     }
   }
 }
